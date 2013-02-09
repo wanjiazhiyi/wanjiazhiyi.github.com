@@ -1,0 +1,128 @@
+*{margin:0; padding:0; list-style-type:none;}
+body{font-size:14px; font-family:Arial, "宋体"; color:#666;}
+
+.top_box{background:url(../images/top_bj2.jpg) repeat-x; height:158px; width:100%;}
+  .top{width:1005px; height:121px; margin:0 auto; background:url(../images/top_bj.jpg) no-repeat;}
+  .top_logo{background:url(../images/logo.jpg) no-repeat; width:502px; height:53px; float:left; margin-top:37px;}
+    .top_logo h2 a{display:block; width:502px; height:53px; text-indent:-999999px;}
+    .top_right{width:190px; height:24px; padding-top:20px; float:right;}
+      .top_right a{text-decoration:none; color:#666;}
+      .top_right a:hover{color:#ff9900;}
+      
+  .menu{width:1003px; height:37px; margin:0 auto; background:url(../images/menu_b.jpg) no-repeat left; padding-left:2px;}
+    .menu ul li{background:url(../images/menu_b.jpg) no-repeat right; padding-right:2px; line-height:37px;float:left;}
+      .menu ul li a{display:block;  padding:0 25px; color:#333; text-decoration:none;}
+    .menu ul li a:hover{color:#fff; background:url(../images/menu_bj.jpg) repeat-x;}
+    
+.index_flash_box{width:100%;height:424px; background:url(../images/banner_bj.jpg);}
+  .index_flash{width:1005px; height:381px; margin:0 auto; background:url(../images/banner_bottom.jpg) no-repeat bottom; padding-bottom:23px; padding-top:20px;}
+.banner_box{width:100%; height:247px; background:url(../images/banner_bj.jpg);}
+  .banner{width:1005px; height:195px; margin:0 auto; padding-top:29px; background:url(../images/banner_bottom.jpg) no-repeat bottom; padding-bottom:23px;}
+  .banner img{width: 1004px; height: 194px}
+  
+.body_b{width:100%; overflow:hidden; background:url(../images/bj.jpg) repeat-x top #f5f5f5; padding-top:15px;}
+.body_box{width:1005px; overflow:hidden; margin:0 auto; padding-bottom:140px;}
+  .index_left{width:743px; overflow:hidden; float:left;}
+  .index_about{width:710px; margin:0 auto; padding:15px 0; line-height:22px; font-size:14px;}
+    .index_about img{ float:left; margin-right:10px;}
+    .index_about a{color:#ff6600; text-decoration:none;}
+    .index_about a:hover{color:#ff0000;}
+  .index_pro{width:713px; margin:0 auto; padding:25px 0;}
+    .index_pro ul li{ float:left; width:127px; height:155px; margin:0 7px; _display:inline;}
+      .index_pro ul li img{border:1px solid #d4d4d4;}
+      .index_pro ul li h2{ text-align:center;}
+        .index_pro ul li h2 a{color:#666; text-decoration:none; font-size:14px; font-weight:100; line-height:24px;}
+        .index_pro ul li h2 a:hover{color:#ff9900;}
+  .index_right{width:220px; float:right; overflow:hidden;}
+    .index_zx{width:80px; height:92px; margin:0 auto; padding:20px 108px 0 0; background:url(../images/img_01.jpg) no-repeat right bottom;}
+      .index_zx ul li{background:url(../images/ico_02.jpg) no-repeat 0 50%; line-height:24px; text-indent:14px;}
+      .index_zx ul li a{color:#333; text-decoration:none;}
+        .index_zx ul li a:hover{color:#ff9900;}
+  .index_fw{width:220px; padding:25px 0; margin:0 auto; text-align:center;}
+  .index_search{background:no-repeat 5px 50% #fff; padding-left:30px; height:23px; width:135px; line-height:23px; margin-right:10px; border:1px solid #cecece;}
+  .index_contact{width:210px; overflow:hidden; line-height:22px; margin:0 auto; padding:10px 0; }
+  .index_contact a{ color:#666; text-decoration:none;}
+
+.title{width:100%; height:28px; background:url(../images/line_01.jpg) repeat-x bottom;}
+  .title span{ display:block; background:url(../images/ico_01.jpg) no-repeat 5px 4px; text-indent:15px; font-size:14px; color:#333; line-height:26px;}
+  .title a{float:right; display:block; text-decoration:none; color:#333333; padding:6px 10px 0 0;}
+  
+.footer{width:100%; background:#2e2e2e; overflow:hidden; padding:20px 0;}
+  .foot{width:1005px; overflow:hidden; text-align:center; margin:0 auto; line-height:22px; color:#fff;}
+  
+.leftbox{width:242px; overflow:hidden; float:left;}
+  .left_title{width:242px; height:32px; border-bottom:1px solid #ababab; font-family:"微软雅黑", "幼圆"; font-size:20px; color:#333; text-indent:10px; font-weight:bold;}
+    .leftbox ul{padding:5px 0;}
+    .leftbox ul li{ font-family:"宋体"; padding:6px 0; padding-left:5px; border-bottom:1px dotted #c4c4c4;}
+      .leftbox ul li a{color:#666; font-size:14px; text-decoration:none;}
+      .leftbox ul li:hover{ background:#c4c4c4; color:#fff;}
+      .leftbox ul li:hover a{color:#fff;}
+
+.rightbox{width:710px; overflow:hidden; float:right;}
+  .right_title{width:1005; height:32px;border-bottom:1px solid #ababab; line-height:32px; text-indent:10px;}
+    .right_title a{color:#666; text-decoration:none;}
+    .right_title a:hover{color:#ff9900;}
+  .right_text{width:710px; overflow:hidden; padding-top:15px; line-height:24px;}
+  .right_img{ width:710px; overflow:hidden; padding-bottom:10px;}
+  
+  .right_top{ width:710px; overflow:hidden; margin-bottom:30px;}
+  .rihgt_top1{ overflow:hidden; float:right; width:365px; font:bold; margin-bottom:50px; color:#333333; padding-top:10px;}
+  .rihgt_top1 a{ color:#666; text-decoration:none;}
+  .rihgt_top1 a:hover{ color:#ff9900; text-decoration:none;}
+  .weixiu{
+    font-family:"方正大黑简体","幼圆";
+    font-size:18px;
+    font:bold;
+    color:#5ec4eb;
+  }
+  .weixiu_a{
+    line-height:23px;
+    padding-top:15px;
+  }
+  .changjianwenti{
+  color: #FF0000;
+  font-weight: bold;
+}
+  .bianping{
+    width:710px;
+    overflow:hidden;
+    margin-bottom:20px;
+  }
+.productshow{width:100%;}
+  .productshow li{float:left;width:192px; height:220px; margin:0 20px; padding-bottom:20px; _display:inline;}
+    .productshow li h2{ text-align:center; line-height:24px;}
+    .productshow li a{font-size:14px; font-weight:100; text-decoration:none; color:#666;}
+    .productshow img{ border:1px solid #e4e4e4;}
+    
+.products_cp{
+  width:710px;
+  overflow:hidden;
+  border-bottom:1px solid #ABABAB;
+}
+.products_cp span{
+  font-size:16px;
+  border-bottom:1px solid #ABABAB;
+  width:710px;
+  overflow:hidden;
+  display:block;
+  margin-bottom:15px;
+  font-weight:bolder;
+  }
+.products_cp2{
+  border:1px solid #e4e4e4;
+  width:550px;
+  height:550px;
+  margin:0 auto;
+  margin-bottom:25px;
+}
+.products_cp3{
+  width:690px;
+  overflow:hidden;
+  margin:0 15px;
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.pro_fy{width:710px; text-align:center; line-height:40px; color:#0a72f3;}
+  .pro_fy a{color:#666; text-decoration:none;}
+  .pro_fy a:hover{color:#ff9900;}
